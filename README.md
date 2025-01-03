@@ -1,9 +1,9 @@
 # tgunpack mc server setup guide
 
 the reason this is so complicated is because:
-a. i don't want to pay exorbitant amounts of server rent
-b. i don't want to port forward on my home network (and having to expose my ip address)
-c. automatic mod sync is kinda nice
+1. i don't want to pay exorbitant amounts of server rent
+2. i don't want to port forward on my home network (and having to expose my ip address)
+3. automatic mod sync is kinda nice
 
 ## what you need
 
