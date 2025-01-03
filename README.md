@@ -1,5 +1,10 @@
 # tgunpack mc server setup guide
 
+the reason this is so complicated is because:
+a. i don't want to pay exorbitant amounts of server rent
+b. i don't want to port forward on my home network (and having to expose my ip address)
+c. automatic mod sync is kinda nice
+
 ## what you need
 
 1. a forge 1.12.2 instance. you can use any launcher to do this but [prismlauncher](https://prismlauncher.org/) is great and does it all for you. install it by running `winget install prismlauncher` __in command prompt__
