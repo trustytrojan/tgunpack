@@ -9,7 +9,7 @@
 
 - [ServerSync](https://github.com/superzanti/ServerSync) requires java 17 to be on your system, and an existing java 8 installation will conflict with it. the [`tgunpack-setup.cmd`](./tgunpack-setup.cmd) script installs java 17 for you, but you may still need to uninstall other java versions for ServerSync to run.
 
-- some countries aren't allowed to use access cloudflared tunnels... if you get an error in a cloudflared window saying "the remote denied access", use a VPN.
+- some countries aren't allowed to access cloudflared tunnels... if you get an error in a cloudflared window saying "the remote denied access", use a VPN.
 
 ## to actually connect to the server in-game
 
