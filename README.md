@@ -1,5 +1,7 @@
 # tgunpack mc server setup guide
 
+this guide is for windows users. if you use linux, i think you have enough knowledge to translate everything to work on a linux system.
+
 the reason this is so complicated is because:
 - i don't want to pay exorbitant amounts of server rent
 - i don't want to port forward on my home network (and having to expose my ip address)
