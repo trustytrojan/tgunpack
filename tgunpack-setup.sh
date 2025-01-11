@@ -16,5 +16,5 @@ if [ ! -f ServerSync-4.3.0-all.jar ]; then
 		wget "https://github.com/superzanti/ServerSync/releases/download/v4.3.0/ServerSync-4.3.0-all.jar"
 fi
 
-. update-mods.sh
-. create-tunnel.sh
+sh update-mods.sh
+sh create-tunnel.sh
