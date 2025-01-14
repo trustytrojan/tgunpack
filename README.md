@@ -15,6 +15,7 @@
 
 ## connecting to the server
 launch the forge 1.12.2 instance and connect to one of the following addresses (try another if one doesn't work):
+- `mc.trustytrojan.dev:9787`
 - `record-low.gl.joinmc.link:9787`
 - `147.185.221.25:9787`
 - `25.ip.gl.ply.gg:9787`
