@@ -10,9 +10,8 @@
 if you want to use another launcher, then you're on your own.
 
 ## connecting to the server
-launch the `tgunpack` instance and connect to the server already there: `mc.trustytrojan.dev:9787`
-
-try one of the following addresses if you can't connect:
+use one of the following addresses:
+- `mc.trustytrojan.dev:9787`
 - `record-low.gl.joinmc.link:9787` (doesn't seem to work at all)
 - `147.185.221.25:9787`
 - `25.ip.gl.ply.gg:9787`
