@@ -1,8 +1,9 @@
 # tgunpack-forge-1.12.2
 download/import links:
 - [curseforge pack](https://github.com/trustytrojan/tgunpack-forge-1.12.2/releases/download/rolling/tgunpack.zip): includes recommended configs/settings
-- [curseforge pack - mods only](https://github.com/trustytrojan/tgunpack-forge-1.12.2/releases/download/rolling/tgunpack-modsonly.zip): this is for if you want to configure the client-side mods yourself
-- [mods archive](https://github.com/trustytrojan/tgunpack-forge-1.12.2/releases/download/rolling/mods.7z): for other minecraft setups
+- [curseforge pack - mods only](https://github.com/trustytrojan/tgunpack-forge-1.12.2/releases/download/rolling/tgunpack-modsonly.zip): has no configs/settings - this is for if you want to configure the client-side mods yourself
+
+for other minecraft setups: i'll come up with an easy solution soon
 
 ## setup guide
 1. install [prismlauncher](https://prismlauncher.org) and open it
@@ -18,7 +19,7 @@ use one of the following addresses:
 
 ## updating the pack
 1. open [prismlauncher](https://prismlauncher.org)
-2. repeat steps 1 & 2 of the [setup guide](#setup-guide) **using the same link to the pack you setup with**
+2. repeat steps 2 & 3 of the [setup guide](#setup-guide)
 3. a dialog will popup saying `Similar modpack was found!`, click the `Update existing instance` button
 
 ## other launchers
