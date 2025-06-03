@@ -1,6 +1,5 @@
 # tgunpack
-tgunpack 2.0 for forge 1.20.1 is here!!!!!!!!!!!! \
-go to releases to download!!!!!!!!!!!
+go to [releases](https://github.com/trustytrojan/tgunpack/releases) to download!!!!!!!!!!!
 
 ## setup guide
 1. install [prismlauncher](https://prismlauncher.org) and open it (other launchers are not supported)
